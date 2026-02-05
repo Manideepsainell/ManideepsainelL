@@ -21,7 +21,7 @@ Backend-focused Software Engineer (MERN) passionate about building scalable APIs
 
 ### 📌 Stock Trading Platform (MERN)
 A full-stack stock trading platform with authentication, portfolio/holdings/positions tracking, and stock API integration.  
-🔗 Repo: https://github.com/Manideepsainell/Stock-Trading-Platform
+🔗 Repo: https://github.com/Manideepsainell/TradeMint
 
 ### 📌 Wanderlust (Property Booking Platform)
 Booking/listing platform with authentication, Cloudinary uploads, Mapbox maps, filtering and secure authorization.  
