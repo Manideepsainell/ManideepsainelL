@@ -1,34 +1,78 @@
 # Hi, I'm Manideep Sai Nellutla 👋
 
-Backend-focused Software Engineer (MERN) passionate about building scalable APIs, authentication systems, and full-stack web apps.
+Full-Stack Software Engineer (MERN) passionate about building **end-to-end web applications with real business logic, secure authentication, and scalable backend systems**.
 
-- 🔭 Currently building backend-heavy projects
-- 🌱 Learning system design + improving backend fundamentals
-- 👨‍💻 Projects: Stock Trading Platform, Wanderlust (Booking Platform)
+I focus on writing clean frontend code **backed by strong backend workflows**, rather than building UI-only demos.
+
+- 🔭 Currently building **production-style full-stack projects**
+- 🌱 Learning **system design, API optimization, and scalable application patterns**
+- 👨‍💻 Experience with authentication, execution logic, and data-driven dashboards
 - 📍 Hyderabad, India
 
 ---
 
 ## 🧰 Tech Stack
-**Backend:** Node.js, Express.js, REST APIs, JWT  
-**Databases:** MongoDB, SQL  
-**Frontend:** React.js, HTML, CSS, Bootstrap  
-**Tools:** Git, GitHub, Postman
+
+### Frontend
+- React.js
+- React Router
+- Context API
+- HTML, CSS, Bootstrap
+
+### Backend
+- Node.js, Express.js
+- REST APIs
+- JWT authentication (httpOnly cookies)
+- Middleware-based architecture
+- Zod validation & in-memory caching
+
+### Database
+- MongoDB (Mongoose)
+- SQL (basics)
+
+### Tools
+- Git & GitHub
+- Postman
+- VS Code
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📌 Stock Trading Platform (MERN)
-A full-stack stock trading platform with authentication, portfolio/holdings/positions tracking, and stock API integration.  
-🔗 Repo: https://github.com/Manideepsainell/TradeMint
+### 📌 TradeMint — Full-Stack Trading Platform (MERN)
+A **production-style trading simulation platform** inspired by modern brokerage dashboards.
 
-### 📌 Wanderlust (Property Booking Platform)
-Booking/listing platform with authentication, Cloudinary uploads, Mapbox maps, filtering and secure authorization.  
-🔗 Repo: https://github.com/Manideepsainell/Wanderlust
+**What it demonstrates:**
+- Secure login & session handling using JWT cookies
+- Buy/Sell order execution with holdings & positions tracking
+- Brokerage-aware profit & loss calculation
+- Portfolio analytics with charts & insights
+- Modular frontend and backend architecture
+
+🔗 Repository: https://github.com/Manideepsainell/TradeMint
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/manideep-sai-97681a330/
-- GitHub: https://github.com/Manideepsainell
+### 📌 Wanderlust — Property Booking Platform
+A full-stack booking and listing platform with authentication and third-party integrations.
+
+**Highlights:**
+- User authentication & authorization
+- Property listings with image uploads (Cloudinary)
+- Map-based location rendering (Mapbox)
+- Secure CRUD operations and filtering
+
+🔗 Repository: https://github.com/Manideepsainell/Wanderlust
+
+---
+
+## 🎯 What I’m Looking For
+- Full-Stack Developer roles
+- Software Engineer Intern / Fresher positions
+- Teams working on **real products, not just static UIs**
+
+---
+
+## 📫 Connect with Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/manideep-sai-97681a330/
+- 🧑‍💻 GitHub: https://github.com/Manideepsainell
